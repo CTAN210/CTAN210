@@ -1,4 +1,4 @@
-### Hi there! I'm Colin 👋
+# Hi there! I'm Colin 👋
 
 I am a Year 3 Undergraduate studying Business and Commputer Science in Nanyang Technological University!
 
