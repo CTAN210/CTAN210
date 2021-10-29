@@ -10,7 +10,7 @@ My interests in Computer Science lies in Software Development. I was able to tak
 
 If you are interested, do contact me at the following links!
 
-### Get in touch
+## Get in touch
 
 💻 GitHub: https://www.github.com/CTAN210
 
