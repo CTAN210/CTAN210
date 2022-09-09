@@ -6,7 +6,6 @@ My interests in Computer Science lies in Software Development. I was able to tak
 
 
 - 🌱 I’m currently learning React.JS, Laravel and Unity3D
-- 👯 I’m looking to collaborate on making a website together! I have an idea to sell to a client in mind, but am struggling with certain design factors to take into consideration.
 
 If you are interested, do contact me at the following links!
 
