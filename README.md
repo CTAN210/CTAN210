@@ -1,8 +1,11 @@
 # Hi there! I'm Colin 👋
 
-I am a Year 3 Undergraduate studying Business and Commputer Science in Nanyang Technological University!
+I am a Final Year Undergraduate studying Nanyang Technological University!
 
-My interests in Computer Science lies in Software Development. I was able to take charge of many projects to develop innovative web and mobile applications during my years in NTU, and am looking to expand in this area to help companies develop Software solutions!
+B.Bus - Business (Specialization in Business Analytics)
+B.Eng - Computer Science (Specialization in Data Science & Analytics)
+
+My interests in Computer Science lies in Software Development. I was able to take charge of many projects to develop innovative web and mobile applications during my years in NTU as well as prior internships, and am looking to expand in this area to help companies develop Software solutions!
 
 
 - 🌱 I’m currently learning React.JS, Laravel and Unity3D
