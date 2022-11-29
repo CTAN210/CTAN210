@@ -9,7 +9,7 @@ I am a Final Year Undergraduate studying Nanyang Technological University!
 My interests in Computer Science lies in Software Development. I was able to take charge of many projects to develop innovative web and mobile applications during my years in NTU as well as prior internships, and am looking to expand in this area to help companies develop Software solutions!
 
 
-- 🌱 I’m currently learning React.JS, Laravel and Unity3D
+- 🌱 I’m currently taking courses on Automated Software Testing and AWS Certified Developer (Associate Certification)
 
 If you are interested, do contact me at the following links!
 
